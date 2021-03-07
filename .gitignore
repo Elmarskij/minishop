@@ -1,0 +1,9 @@
+/db.sqlite3
+/mainapp/__pycache__/
+/mainapp/migrations/__pycache__/
+*/migrations/
+*/__pycache__/
+/media/
+*/__pycache__/
+*/__pycache__/*
+/mainapp/templates/templatetags/__pycache__/
