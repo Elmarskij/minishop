@@ -1,0 +1,12 @@
+{% extends 'mainapp/base.html' %}
+{% load crispy_forms_tags %}
+
+
+{% block content %}
+
+{{ request.user.first_name }}
+{{ request.user.last_name }}
+<a href="{% url 'profile_edit' %}" class="list-group-item">Редактировать учетную запись</a>
+
+
+{% endblock %}
