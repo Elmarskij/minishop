@@ -19,9 +19,9 @@ For Sunrise IT company
 16. Как только все вышеперечисленное сделали, можно переходить к следующей ссылке - создание характеристики для самого товара.
 17. Далее можно будет редактировать характеристики товара.
 
+---------------------
 Postgre(minishop_db):
 superuser: admin
-password: minishop
------------------
+password: minishop;
 superuser(reserve): elmar
 password: minishop
